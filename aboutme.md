@@ -4,13 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Catalin. I don't like the nice talks 'how was your weekend' and bullshit like that which wastes your time. You need something ? Just say it.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm not a very social person so I don't know what to write in here. My story is simple. I worked my ass up in a factory and studied outsite of work hours. Learned for exams and also played on THM and HTB platforms. It took me about 8 months to get in as a pentester with no previous IT experience.
